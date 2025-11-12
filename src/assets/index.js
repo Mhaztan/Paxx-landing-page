@@ -5,7 +5,7 @@
  */
 
 // Import assets from their respective paths.
-import paxxLogo from './images/paxx navbar.svg';
+import paxxLogo from './images/paxx-navbar.svg';
 import heroMockup from './images/hero-mockup.png';
 import featureImage from './images/feature-image.png';
 
